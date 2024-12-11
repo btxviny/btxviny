@@ -19,7 +19,7 @@
 
 
 ## **Soft Skills** ✨  
-🎯 *Attention to Detail* | 💡 *Leadership* | 🔎 *Resourcefulness* | 🗣️ *Communication*
+*Attention to Detail* | *Leadership* | *Resourcefulness* | *Communication*
 
 
 ## **Experience** 💼  
