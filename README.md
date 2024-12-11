@@ -56,4 +56,4 @@
 
 
 ## **Hobbies & Interests** 🎾🎶🔌  
-🎾 *Tennis* | 🎹 *Music Playing* | 🛠️ *Electronics* | 🌾 *Agriculture* | 🍳 *Cooking*
+*Tennis* | *Music Playing* | *Electronics* | *Agriculture* | *Cooking*
