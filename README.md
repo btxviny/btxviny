@@ -1,7 +1,7 @@
 # **Machine Learning Engineer** 🤖📈  
 🎓 **Electrical Engineer & Computer Science Graduate**  
 🌟 Passionate about **machine learning**, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.
-
+**Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
 
 ## **Education** 🎓  
 - **MEng in Electrical Engineering and Computer Science**  
@@ -23,7 +23,7 @@
 
 ## **Experience** 💼  
 ### **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
-
+- I have built various state of the art applications, like Self-RAG, Multi-Agent systems and more.
 
 ### **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
 ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)
