@@ -1,7 +1,7 @@
 # **Machine Learning Engineer** 📈  
 🎓 **Electrical Engineer & Computer Science Graduate**  
-🌟 Passionate about **machine learning**, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.
- **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
+🌟 Passionate about **machine learning**, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
+**Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍
 
 ## **Education** 🎓  
 - **MEng in Electrical Engineering and Computer Science**  
