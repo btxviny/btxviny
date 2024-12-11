@@ -1,5 +1,5 @@
 # **Machine Learning Engineer** 📈  
-💼 **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍
+💼 **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
 🎓 **Electrical Engineer & Computer Science Graduate**  
 🌟 Passionate about **machine learning**, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
 
