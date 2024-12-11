@@ -1,6 +1,7 @@
 # Machine Learning Engineer
 I am an Electrical Engineer-Computer Science graduate with in-depth knowledge and passion for machine learning. I am able to transform the latest research papers into code implementations, train neural networks efficiently and build applications.
 
+
 ## Education
 - MEng in Electrical Engineering and Computer Science, Computer Software & Hardware, University of Patras. 
 - Diploma thesis on Deep Learning Video Stabilization.
@@ -12,6 +13,7 @@ Machine learning algorithms| Computer Vision| Natural language processing| Distr
 Attention to Detail |  Leadership |  Resourcefulness | Communication
 
 ## Experience
+- ### Machine Learning Engineer / AI Consultant @ EY-Greece
 - ### Diploma thesis – [Deep Learning Video Stabilization](/assets/thesis.pdf):
   ![img](/assets/img/stab_result.gif).
 - I gained in-depth knowledge of Computer Vision concepts through implementing and modifying numerous research papers.
