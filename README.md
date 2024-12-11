@@ -10,14 +10,14 @@
   📝 *Diploma Thesis*: **Deep Learning Video Stabilization**
 
 
-## **Technical Skills** 🔧📚  
+## **Technical Skills** 🔧
 - **Machine Learning Algorithms** | **Computer Vision** | **Natural Language Processing**  
 - **Distributed Training** | **PyTorch** | **TensorFlow**  
 - **Docker** | **Google Cloud Platform** | **Matlab**  
 - **Signal Processing** | **OpenMP** | **Parallel Computing** | **SQL**  
 
 
-## **Soft Skills** 🤝✨  
+## **Soft Skills** ✨  
 🎯 *Attention to Detail* | 💡 *Leadership* | 🔎 *Resourcefulness* | 🗣️ *Communication*
 
 
@@ -40,7 +40,7 @@
   - **Approach 2**: Utilized **Principal Component Analysis** for noise generation.
 
 
-## **Projects** 💻🔍  
+## **Projects** 🔍  
 ![Neural Style Transfer](/assets/img/neural_style.gif)  
 ![Real-Time Face Verification](/assets/img/faceid.gif)  
 
