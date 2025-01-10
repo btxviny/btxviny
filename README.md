@@ -43,7 +43,10 @@
 
 ## **Projects** 🔍  
 ![Neural Style Transfer](/assets/img/neural_style.gif)  
-![Real-Time Face Verification](/assets/img/faceid.gif)  
+
+<div align="center">
+  ![Real-Time Face Verification](/assets/img/faceid.gif)
+</div>
 
 - 🎥 Implemented various Computer Vision projects such as:  
   - Real-time face verification using pretrained model embeddings.  
