@@ -29,7 +29,7 @@
 ### **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
 ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)
 
-- Gained in-depth knowledge of **Computer Vision** concepts by implementing and modifying numerous research papers.  
+- Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
 - Became proficient in Deep Learning training principles and best practices.  
 - Used state-of-the-art techniques such as Deep Perceptual Losses, Transfer Learning, feature embeddings, and fine-tuning.  
 - Leveraged advanced network architectures like channel attention, gated convolutions, and more.  
@@ -37,8 +37,8 @@
 - Implemented advanced training schemes such as cGAN, WGAN, Siamese Networks, and more.  
 - Mastered best practices for data preprocessing.  
 - Proposed two novel approaches for generating realistically unstable videos for supervised training:  
-  - **Approach 1**: Trained a model to generate realistic motion noise.  
-  - **Approach 2**: Utilized Principal Component Analysis for noise generation.
+  - Approach 1: Trained a model to generate realistic motion noise.  
+  - Approach 2: Utilized Principal Component Analysis for noise generation.
 
 
 ## **Projects** 🔍  
