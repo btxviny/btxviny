@@ -14,6 +14,7 @@
    interpret data to uncover insights.
  • Client-Facing Communication: Experience presenting technical
    findings and recommendations to clients and stakeholders.
+  
  - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
    • Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
    ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif) .
