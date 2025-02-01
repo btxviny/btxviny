@@ -17,6 +17,7 @@
    findings and recommendations to clients and stakeholders.
   
  - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):
+   
    ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)  
    • Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
    • Became proficient in Deep Learning training principles and best practices.  
