@@ -16,7 +16,7 @@
 **PyTorch** | **TensorFlow** 
 **Computer Vision** | **OpenCV*** | **TorchVision** 
 **Natural Language Processing** | **RAG** | **MultiAgent - Applications** | **Autogen** | **LangChain** | **LangGraph** 
-**Distributed Training** | **Docker** | **Google Cloud Platform** | **Azure** |
+**Distributed Training** | **Docker** | **GCP** | **Azure** |
 **Signal Processing** | **Matlab** | **OpenMP** | **x86 Assembly** | **Parallel Computing** | **SQL**  
 
 
