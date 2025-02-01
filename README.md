@@ -12,12 +12,11 @@
 
 
 ## **Technical Skills** 🔧
-**Machine Learning Algorithms** | 
 **PyTorch** | **TensorFlow** 
-**Computer Vision** | **OpenCV*** | **TorchVision** 
-**Natural Language Processing** | **RAG** | **MultiAgent - Applications** | **Autogen** | **LangChain** | **LangGraph** 
-**Distributed Training** | **Docker** | **GCP** | **Azure** |
-**Signal Processing** | **Matlab** | **OpenMP** | **x86 Assembly** | **Parallel Computing** | **SQL**  
+ - **Computer Vision** | **OpenCV*** | **TorchVision** 
+ - **Natural Language Processing** | **RAG** | **MultiAgent - Applications** | **Autogen** | **LangChain** | **LangGraph** 
+ - **Distributed Training** | **Docker** | **GCP** | **Azure** |
+ - **Signal Processing** | **Matlab** | **OpenMP** | **x86 Assembly** | **Parallel Computing** | **SQL**  
 
 
 ## **Soft Skills** ✨  
