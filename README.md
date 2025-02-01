@@ -12,7 +12,7 @@
 
 
 ## **Technical Skills** 🔧
-**PyTorch** | **TensorFlow** 
+ - **PyTorch** | **TensorFlow** 
  - **Computer Vision** | **OpenCV** | **TorchVision** 
  - **Natural Language Processing** | **RAG** | **MultiAgent - Applications** | **Autogen** | **LangChain** | **LangGraph** 
  - **Distributed Training** | **Docker** | **GCP** | **Azure** |
