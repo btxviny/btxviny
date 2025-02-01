@@ -1,4 +1,5 @@
 # **Machine Learning Engineer** 📈  
+
 - **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
 - **Electrical Engineer & Computer Science Graduate**  
 -  Passionate about machine learning, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
@@ -15,9 +16,9 @@
  • Client-Facing Communication: Experience presenting technical
    findings and recommendations to clients and stakeholders.
   
- - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
+ - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):
+   ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)  
    • Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
-   ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)
    • Became proficient in Deep Learning training principles and best practices.  
    • Used state-of-the-art techniques such as Deep Perceptual Losses, Transfer Learning, feature embeddings, and fine-tuning.  
    • Leveraged advanced network architectures like channel attention, gated convolutions, and more.  
