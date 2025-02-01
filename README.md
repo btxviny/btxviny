@@ -13,9 +13,9 @@
 
 ## **Technical Skills** 🔧
 - **Machine Learning Algorithms** | **Computer Vision** | **Natural Language Processing**  
-- **Distributed Training** | **PyTorch** | **TensorFlow**  
-- **Docker** | **Google Cloud Platform** | **Matlab**  
-- **Signal Processing** | **OpenMP** | **Parallel Computing** | **SQL**  
+**Distributed Training** | **PyTorch** | **TensorFlow**  
+**Docker** | **Google Cloud Platform** | **Matlab**  
+**Signal Processing** | **OpenMP** | **Parallel Computing** | **SQL**  
 
 
 ## **Soft Skills** ✨  
