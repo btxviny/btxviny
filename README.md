@@ -3,6 +3,30 @@
 - **Electrical Engineer & Computer Science Graduate**  
 -  Passionate about machine learning, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
 
+## **Experience** 💼  
+- **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍
+ • Gained in-depth familiarity with NLP concepts and best practices.
+ • Implemented GenAI architectures like Multi-Agent Systems, RAG
+   and more.
+ • APIs and Integration: Designing and implementing RESTful APIs to
+   deploy models in production environments.
+ • Exploratory Data Analysis (EDA): Strong ability to visualize and
+   interpret data to uncover insights.
+ • Client-Facing Communication: Experience presenting technical
+   findings and recommendations to clients and stakeholders.
+ - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
+   ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)
+   
+   • Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
+   • Became proficient in Deep Learning training principles and best practices.  
+   • Used state-of-the-art techniques such as Deep Perceptual Losses, Transfer Learning, feature embeddings, and fine-tuning.  
+   • Leveraged advanced network architectures like channel attention, gated convolutions, and more.  
+   ![DMBVS_UNET Architecture](/assets/img/DMBVS_UNET.png)  
+   • Implemented advanced training schemes such as cGAN, WGAN, Siamese Networks, and more.  
+   • Mastered best practices for data preprocessing.  
+   • Proposed two novel approaches for generating realistically unstable videos for supervised training:  
+     • Approach 1: Trained a model to generate realistic motion noise.  
+     • Approach 2: Utilized Principal Component Analysis for noise generation.
 
 ## **Education** 🎓  
 - **MEng in Electrical Engineering and Computer Science**  
@@ -21,26 +45,6 @@
 
 ## **Soft Skills** ✨  
 *Attention to Detail* | *Leadership* | *Resourcefulness* | *Communication*
-
-
-## **Experience** 💼  
-### **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
-- I have built various state of the art applications, like Self-RAG, Multi-Agent systems and more.
-
-### **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):  
-![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)
-
-- Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
-- Became proficient in Deep Learning training principles and best practices.  
-- Used state-of-the-art techniques such as Deep Perceptual Losses, Transfer Learning, feature embeddings, and fine-tuning.  
-- Leveraged advanced network architectures like channel attention, gated convolutions, and more.  
-![DMBVS_UNET Architecture](/assets/img/DMBVS_UNET.png)  
-- Implemented advanced training schemes such as cGAN, WGAN, Siamese Networks, and more.  
-- Mastered best practices for data preprocessing.  
-- Proposed two novel approaches for generating realistically unstable videos for supervised training:  
-  - Approach 1: Trained a model to generate realistic motion noise.  
-  - Approach 2: Utilized Principal Component Analysis for noise generation.
-
 
 ## **Projects** 🔍  
 ![Neural Style Transfer](/assets/img/neural_style.gif)  
