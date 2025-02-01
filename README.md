@@ -23,12 +23,12 @@
    • Became proficient in Deep Learning training principles and best practices.  
    • Used state-of-the-art techniques such as Deep Perceptual Losses, Transfer Learning, feature embeddings, and fine-tuning.  
    • Leveraged advanced network architectures like channel attention, gated convolutions, and more.  
-   ![DMBVS_UNET Architecture](/assets/img/DMBVS_UNET.png)  
    • Implemented advanced training schemes such as cGAN, WGAN, Siamese Networks, and more.  
    • Mastered best practices for data preprocessing.  
    • Proposed two novel approaches for generating realistically unstable videos for supervised training:  
      • Approach 1: Trained a model to generate realistic motion noise.  
      • Approach 2: Utilized Principal Component Analysis for noise generation.
+   ![DMBVS_UNET Architecture](/assets/img/DMBVS_UNET.png)  
 
 ## **Education** 🎓  
 - **MEng in Electrical Engineering and Computer Science**  
