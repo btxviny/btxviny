@@ -1,0 +1,18 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #1e90ff;
+}
+
+.container {
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.project-name, .project-tagline {
+    color: #ffffff;
+}
