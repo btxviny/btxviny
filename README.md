@@ -1,6 +1,5 @@
 # **Machine Learning Engineer** 📈  
 
-- **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍  
 - **MEng in Electrical Engineer & Computer Science**  
 -  Passionate about machine learning, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
 
