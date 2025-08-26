@@ -4,7 +4,13 @@
 - **MEng in Electrical Engineer & Computer Science**  
 -  Passionate about machine learning, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications.  
 
-## **Experience** 💼  
+## **Experience** 💼
+- **Computer Vision Engineer @ I-SENSEGroup/ICCS, 2025 – Present
+•	Implemented a semantic 3D Scene Understanding pipeline, processing LiDAR and depth data from robotic scans.
+•	Built a text-to-object retrieval system, enabling natural language queries for 3D environments.
+•	Integrated 2D foundation models (DINO, CLIP, SAM) with 3D pipelines for scene interpretation.
+•	Applied state-of-the-art methods for large-scale unstructured 3D data processing and vector search over embeddings.
+
 - **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍
  • Gained in-depth familiarity with NLP concepts and best practices.
  • Implemented GenAI architectures like Multi-Agent Systems, RAG
