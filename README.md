@@ -1,27 +1,28 @@
-# **Machine Learning Engineer** 📈  
+# **Robotics & Computer Vision Engineer** 🤖  
 
 - **MEng in Electrical Engineer & Computer Science**  
 -  Passionate about machine learning, with expertise in transforming research papers into efficient code implementations, training neural networks, and building real-world AI applications, and deploying them on legged robots (Unitree Go2 & G1).  
 
 ## **Experience** 💼
-- **Computer Vision Engineer** @ I-SENSEGroup/ICCS, 2025 – Present
-•	Implemented a semantic 3D Scene Understanding pipeline, processing LiDAR and depth data from robotic scans.
-•	Built a text-to-object retrieval system, enabling natural language queries for 3D environments.
-•	Integrated 2D foundation models (DINO, CLIP, SAM) with 3D pipelines for scene interpretation.
-•	Applied state-of-the-art methods for large-scale unstructured 3D data processing and vector search over embeddings.
+- **Robotics / Computer Vision Engineer** @ EY – Greece, Robotics Lab, 2026 – Present  
+  • Back at EY since April 2026, now part of the Robotics Lab developing autonomous robotic surveillance systems.  
+  • Building mapping and autonomous / semantic navigation pipelines for quadruped robots and drones.  
+  • Implemented visual servoing capabilities for drones for vision-based target tracking and approach.  
+  • Working across perception, navigation and control for legged and aerial robotic platforms.
 
-- **Machine Learning Engineer / AI Consultant** @ EY-Greece 🌍
- • Gained in-depth familiarity with NLP concepts and best practices.
- • Implemented GenAI architectures like Multi-Agent Systems, RAG
-   and more.
- • APIs and Integration: Designing and implementing RESTful APIs to
-   deploy models in production environments.
- • Exploratory Data Analysis (EDA): Strong ability to visualize and
-   interpret data to uncover insights.
- • Client-Facing Communication: Experience presenting technical
-   findings and recommendations to clients and stakeholders.
-  
- - **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):
+- **Computer Vision Engineer** @ I-SENSE Group / ICCS, 2025 – 2026  
+  • Implemented a semantic 3D Scene Understanding algorithm where users can search for objects using simple text queries.  
+  • Worked with 3D projection, pointclouds and voxel grids, and 2D foundation models like DINO, CLIP and SAM.  
+  • Utilized SOTA techniques for handling large amounts of unstructured 3D data and vector search.
+
+- **Junior Machine Learning Engineer / AI Consultant** @ EY – Greece, 2024 – 2025 🌍  
+  • Gained in-depth familiarity with NLP concepts and best practices.  
+  • Implemented GenAI architectures like Multi-Agent Systems, RAG and more.  
+  • APIs and Integration: Designing and implementing RESTful APIs to deploy models in production environments.  
+  • Exploratory Data Analysis (EDA): Strong ability to visualize and interpret data to uncover insights.  
+  • Client-Facing Communication: Experience presenting technical findings and recommendations to clients and stakeholders.
+
+- **Diploma Thesis** 📝 – [Deep Learning Video Stabilization](/assets/thesis.pdf):
    
    ![Deep Learning Video Stabilization Result](/assets/img/stab_result.gif)  
    • Gained in-depth knowledge of Computer Vision concepts by implementing and modifying numerous research papers.  
@@ -82,7 +83,7 @@ Hands-on work deploying **Unitree Go2 (quadruped)** and **Unitree G1 (humanoid)*
 PyTorch | TensorFlow |
 Computer Vision | OpenCV | 
 Natural Language Processing | RAG | MultiAgent - Applications | Autogen | LangChain | LangGraph |
-ROS 2 | Nav2 | SLAM | Isaac Sim | Gazebo | Reinforcement Learning (RSL-RL) |
+ROS 2 | Nav2 | SLAM | Visual Servoing | Drones | Isaac Sim | Gazebo | Reinforcement Learning (RSL-RL) |
 Distributed Training | Docker | GCP | Azure |
 Signal Processing | Matlab | OpenMP | x86 Assembly | Parallel Computing | SQL  
 
