@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dark mode overrides for jekyll-theme-minimal */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+h1, h2, h3, h4, h5, h6, strong, b,
+header h1, header p, .project-name, .project-tagline {
+  color: #ffffff;
+}
+
+p, li, td, th, blockquote, section, header ul li {
+  color: #d0d0d0;
+}
+
+a { color: #4da3ff; }
+a:hover { color: #80bfff; }
+
+hr { border-color: #333; background: #333; }
+
+code, pre, pre code {
+  background: #1e1e1e;
+  color: #e6e6e6;
+  border-color: #333;
+}
+
+table, th, td { border-color: #333; }
+
+blockquote { border-left-color: #444; }
+
+img { border-radius: 6px; }
